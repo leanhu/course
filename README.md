@@ -22,7 +22,7 @@ cs 244b, Spring 2016: **Distributed Systems** http://web.stanford.edu/class/cs24
 **[CMU](http://www.cs.cmu.edu/)**  
  Panopto https://scs.hosted.panopto.com  
 
-CMU 15-721 (SPRING 2016) **Database Systems** http://15721.courses.cs.cmu.edu/spring2016/
+CMU 15-721 (SPRING 2016) **Database Systems** http://15721.courses.cs.cmu.edu/spring2016/  
 15-440/640, Spring 2014: **Distributed Systems** http://www.cs.cmu.edu/~dga/15-440/S14/  
 15-213,2015 Fall: **Introduction to Computer Systems** http://www.cs.cmu.edu/~213/  
 
