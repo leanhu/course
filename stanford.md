@@ -9,3 +9,10 @@
 (Katti, Ousterhout, Parulkar)  
 ● New memory/storage systems for the 21st Century  
 (Dally, Kozyrakis, Levis)   
+
+
+## [Applied Cryptography Group](https://crypto.stanford.edu/)
+- Pairings-Based Cryptography
+- Computer and Web Security  
+- Lattices in Cryptography  
+- Privacy
