@@ -17,6 +17,7 @@ Panopto https://scs.hosted.panopto.com
 CMU 15-721 (SPRING 2016) **Database Systems** http://15721.courses.cs.cmu.edu/spring2016/  
 15-440/640, Spring 2014: **Distributed Systems** http://www.cs.cmu.edu/~dga/15-440/S14/  
 15-213,2015 Fall: **Introduction to Computer Systems** http://www.cs.cmu.edu/~213/  
+11-485/785,2018 Fall: **Introduction to Deep Learning** http://deeplearning.cs.cmu.edu/
 
 **[UC Berkeley](https://cs.berkeley.edu/)**  
 CS 61B **Data Structures** https://people.eecs.berkeley.edu/~jrs/61b/  
