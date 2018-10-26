@@ -1,0 +1,4 @@
+###Git 使用
+git checkout -b <new_branch> upstream/<fork_branch>  从远程fork的分支拉取到本地新分支上
+git cherry-pick <commit_id>  选取其他分支的某个commit到当前分支上
+git reset HEAD 撤销当前unmerged
